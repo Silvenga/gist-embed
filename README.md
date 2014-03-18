@@ -1,3 +1,5 @@
+Modified for a Ajax website.
+
 ##How to use gist-embed to spice up code snippets on your blog
 
 #### Include jQuery and gist-embed src:
